@@ -49,7 +49,7 @@ Allows users to view expenses from a specific category and displays the subtotal
 Three simple steps:
 1. Open terminal inside the project folder
 2. Run:
-   python expense_tracker.py
+   python exp_trckr.py
 3. Enter your data
 
 ## Screenshots
