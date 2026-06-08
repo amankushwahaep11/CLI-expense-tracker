@@ -52,3 +52,16 @@ Three simple steps:
    python expense_tracker.py
 3. Enter your data
 
+## Screenshots
+
+### Add Expense
+
+![Add Expense](add_expense.png)
+
+### View Expenses
+
+![View Expenses](view_expenses.png)
+
+### Filter Expenses
+
+![Filter Expenses](filter_by_category.png)
